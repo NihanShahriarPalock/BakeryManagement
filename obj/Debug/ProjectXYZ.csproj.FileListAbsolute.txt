@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\ProjectXYZ\bin\Debug\ProjectXYZ.exe.config
+C:\Users\Asus\source\repos\ProjectXYZ\bin\Debug\ProjectXYZ.exe
+C:\Users\Asus\source\repos\ProjectXYZ\bin\Debug\ProjectXYZ.pdb
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormAdmin.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormLogin.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormSeller.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.Properties.Resources.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.exe
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.pdb
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormSellerInfo.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormSellingInfo.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormSellerInformation.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormItemInfo.resources
+C:\Users\Asus\source\repos\ProjectXYZ\obj\Debug\ProjectXYZ.FormSellInfo.resources
